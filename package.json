@@ -1,0 +1,9 @@
+{
+  "name": "secure-p2p-escrow",
+  "version": "1.0.0",
+  "description": "Smart contract based P2P Escrow",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
